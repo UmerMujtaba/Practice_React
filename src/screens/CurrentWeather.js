@@ -26,6 +26,7 @@ const App = () => {
         <Text style={temp}>6</Text>
         <Text style={feels}>Feels like 5</Text>
         <Icon name={'eye'} size={30} color='#ff0000' />
+        <Icon name={'user'} size={30} color='#ff0000' />
         <RowText 
           messageOne={'High: 8' } 
           messageTwo={'Low: 6'} 
